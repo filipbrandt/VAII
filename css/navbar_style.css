@@ -1,0 +1,10 @@
+.navbar img{
+    width: 80px;
+    height: 80px;
+}
+
+.nav-item{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: x-large;
+}
